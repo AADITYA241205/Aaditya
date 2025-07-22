@@ -44,7 +44,7 @@ Developing a smart contract-based system that flags fraudulent claims using dece
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/aaditya2412](https://www.linkedin.com/in/aaditya-siddharth-bansod-889590333/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aaditya-siddharth-bansod-889590333/)
 - 💌 Email: aadityabansod@gmail.com
 
 ---
