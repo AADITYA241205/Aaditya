@@ -32,13 +32,6 @@ Developing a smart contract-based system that flags fraudulent claims using dece
 
 ---
 
-### 📚 Domains of Interest
-
-- ⚙️ **GenAI**
-- 
-- 🌐 **Full-Stack Web Development**
-- 🧠 **Explainable AI**
-
 📚 Domains of Interest
 
 -⚙️ Generative AI 
